@@ -1,0 +1,21 @@
+{
+"GuideData": {
+     "AdsController": 
+					{
+					"NetworkAds": "Admob",
+
+					"BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
+					"InterstitialAdmob":"adb Interstitial id",
+					"NativeAdmob":"adb Native id",
+
+					"BannerFacebook":"face Banner id",
+					"InterstitialFacebook":"adb Interstitial id",
+					"NativeFacebook":"face Native id"
+					},
+      "items":
+          [			
+
+          ]
+					
+			}
+}
