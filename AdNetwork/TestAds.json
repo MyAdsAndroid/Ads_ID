@@ -1,0 +1,35 @@
+
+
+{
+"GuideData": {
+     "AdsController": 
+					{
+					"NetworkAds": "Admob",
+
+					"BannerAdmob":                "ca-app-pub-3940256099942544/6300978111",
+					"InterstitialAdmob":          "ca-app-pub-3940256099942544/1033173712",
+					"NativeAdmob":                "ca-app-pub-3940256099942544/2247696110",
+					"AppOpenAdmob":               "ca-app-pub-3940256099942544/3419835294",
+					"RewardedAdmob":              "ca-app-pub-3940256099942544/5224354917",
+					"RewardedInterstitialAdmob":  "ca-app-pub-3940256099942544/5354046379",
+
+					"BannerFacebook":               "Banner Facebook id",
+					"InterstitialFacebook":         "Interstitial Facebook id",
+					"NativeAdsFacebook":            "Native Ads Facebook id",
+					"NativeBannerFacebook":         "Native Banner Facebook id",
+					"RewardedVideoFacebook":        "Rewarded Video Facebook id",
+					"RewardedInterstitialFacebook": "Rewarded Interstitial Facebook id",
+					"NativeFacebook":               "Native Facebook id"
+					},
+      "items":
+          [			
+	{
+					"title"      : "Memory Puzzle Niloya",
+					"app_link"   : "https://play.google.com/store/apps/details?id=com.puzzle.niloyaMemory",
+					"image_link" : "https://github.com/MyAdsAndroid/Ads_ID/raw/main/AdNetwork/images/NiloPuzzle.png"
+	}
+		  
+          ]
+					
+			}
+}
