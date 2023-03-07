@@ -1,0 +1,33 @@
+{
+"GuideData": {
+     "AdsController": 
+					{
+					"NetworkAds": "admob",
+
+					"BannerAdmob":                "ca-app-pub-3940256099942544/6300978111",
+					"InterstitialAdmob":          "",
+					"NativeAdmob":                "ca-app-pub-3940256099942544/2247696110",
+					"AppOpenAdmob":               "ca-app-pub-3940256099942544/3419835294",
+					"RewardedAdmob":              "ca-app-pub-3940256099942544/5224354917",
+					"RewardedInterstitialAdmob":  "ca-app-pub-3940256099942544/5354046379",
+
+					"BannerFacebook":               "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+					"InterstitialFacebook":         "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+					"NativeAdsFacebook":            "Native Ads Facebook id",
+					"NativeBannerFacebook":         "Native Banner Facebook id",
+					"RewardedVideoFacebook":        "Rewarded Video Facebook id",
+					"RewardedInterstitialFacebook": "Rewarded Interstitial Facebook id",
+					"NativeFacebook":               "Native Facebook id"
+					},
+      "items":
+          [			
+	{
+					"title"      : "Memory Puzzle Niloya",
+					"app_link"   : "https://play.google.com/store/apps/details?id=com.crunchyroll.sfduel",
+					"image_link" : "https://raw.githubusercontent.com/MyAdsAndroid/Ads_ID/main/AdNetwork/images/image_1.jpg"
+	}
+		  
+          ]
+					
+			}
+}
