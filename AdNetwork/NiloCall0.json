@@ -23,12 +23,12 @@
           [			
 		{
 					"title"      : "Memory Puzzle Niloya 1",
-					"app_link"   : "https://play.google.com/store/apps/details?id=com.crunchyroll.sfduel",
+					"app_link"   : "com.crunchyroll.sfduel",
 					"image_link" : "https://raw.githubusercontent.com/MyAdsAndroid/Ads_ID/main/AdNetwork/images/image_1.jpg"
 		},
 		{
 					"title"      : "Memory Puzzle Niloya 2",
-					"app_link"   : "https://play.google.com/store/apps/details?id=com.crunchyroll.sfduel",
+					"app_link"   : "com.crunchyroll.sfduel",
 					"image_link" : "https://raw.githubusercontent.com/MyAdsAndroid/Ads_ID/main/AdNetwork/images/image_1.jpg"
 		}
 		  
