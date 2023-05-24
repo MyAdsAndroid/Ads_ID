@@ -1,13 +1,13 @@
-{
-  "Ads": [
-    {
-      "AdmobBannerID": "ca-app-pub-3940256099942544/6300978111",
-      "AdmobInterID" : "ca-app-pub-3940256099942544/1033173712",
-      "Ads_Banner": "admob",
-      "Ads_Inter": "admob",
-      "Ads_Reward": "admob",
-      "MaxBannerID": "9350f97de38b9d08",
-      "MaxInterID": "b2c6dd8f3ec2f974"
-    }
-  ]
-}
+{"Ads":
+ [
+   {
+     "AdmobBannerID":"ca-app-pub-3940256099942544/6300978111",
+     "AdmobInterID" :"ca-app-pub-3940256099942544/1033173712",
+     "Ads_Banner":"admob",
+     "Ads_Inter":"admob",
+     "Ads_Reward":"admob",
+     "MaxBannerID":"YOUR_AD_UNIT_ID",
+     "MaxInterID":"YOUR_AD_UNIT_ID",
+     "ScoreAdmob":"5"
+   }
+ ]}
