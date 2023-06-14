@@ -3,11 +3,11 @@
    {
      "AdmobBannerID":"ca-app-pub-3293555593136695/6201468659",
      "AdmobInterID" :"ca-app-pub-3293555593136695/8494274288",
-     "Ads_Banner":"admob",
-     "Ads_Inter":"admob",
-     "Ads_Reward":"admob",
-     "MaxBannerID":"YOUR_AD_UNIT_ID",
-     "MaxInterID":"YOUR_AD_UNIT_ID",
+     "Ads_Banner":"max",
+     "Ads_Inter":"max",
+     "Ads_Reward":"max",
+     "MaxBannerID": "6e81a791fbe07b68",
+     "MaxInterID" : "f1c182e740ab7d3e",
      "ScoreAdmob":"5"
    }
  ]}
