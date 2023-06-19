@@ -28,10 +28,17 @@
 		}
 		  ,
 		{
+					"title"      : "Skibidi Toilet Jumper",
+					"app_link"   : "com.NEWHTMLGAMES.jumperskibidi",
+					"image_link" : "https://raw.githubusercontent.com/MyAdsAndroid/Ads_ID/main/AdNetwork/images/SkibiJum.png" 
+		}
+		  ,
+		{
 					"title"      : "Skibidi Toilet ",
 					"app_link"   : "com.fakevideocall.skibidi_toilet_ringtones",
 					"image_link" : "https://raw.githubusercontent.com/MyAdsAndroid/Ads_ID/main/AdNetwork/images/RingtoneSkibi.png" 
-		}		  		  
+		}
+
           ]
 					
 			}
