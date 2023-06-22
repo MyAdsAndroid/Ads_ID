@@ -28,6 +28,12 @@
 		}
 		  ,
 		{
+					"title"      : "Niloya Jumping",
+					"app_link"   : "com.NEWHTMLGAMES.NiloyaJumping",
+					"image_link" : "https://raw.githubusercontent.com/MyAdsAndroid/Ads_ID/main/AdNetwork/images/NiloJum.png"
+		}
+		  ,
+		{
 					"title"      : "Skibidi Toilet Jumper",
 					"app_link"   : "com.NEWHTMLGAMES.jumperskibidi",
 					"image_link" : "https://raw.githubusercontent.com/MyAdsAndroid/Ads_ID/main/AdNetwork/images/SkibiJum.png" 
