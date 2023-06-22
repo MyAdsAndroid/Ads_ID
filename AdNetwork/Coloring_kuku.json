@@ -3,9 +3,9 @@
    {
      "AdmobBannerID":"ca-app-pub-3940256099942544/6300978111",
      "AdmobInterID" :"ca-app-pub-3940256099942544/1033173712",
-     "Ads_Banner":"admob",
-     "Ads_Inter":"admob",
-     "Ads_Reward":"admob",
+     "Ads_Banner":"max",
+     "Ads_Inter":"max",
+     "Ads_Reward":"max",
      "MaxBannerID":"814b06e3b4b82600",
      "MaxInterID": "f59a6e8e3e21ead9",
      "ScoreAdmob":"5"
