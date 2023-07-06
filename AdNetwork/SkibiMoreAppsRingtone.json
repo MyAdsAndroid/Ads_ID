@@ -20,12 +20,12 @@
 					"NativeFacebook":               "Native Facebook id"
 					},
       "items":
-          [
-            {
-              "title"      : "Skibidi Toilet Jumper",
-              "app_link"   : "com.NEWHTMLGAMES.jumperskibidi",
-              "image_link" : "https://raw.githubusercontent.com/MyAdsAndroid/Ads_ID/main/AdNetwork/images/SkibiJum.png"
-            }
+          [		   
+		  {
+			"title"      : "kukuli rescue",
+			"app_link"   : "com.TGU2023.RescueMonkey",
+			"image_link" : "https://raw.githubusercontent.com/MyAdsAndroid/Ads_ID/main/AdNetwork/images/KukuUni.png"
+		   } 
 		  
           ]
 					
