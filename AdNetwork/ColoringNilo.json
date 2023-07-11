@@ -21,12 +21,11 @@
 					},
       "items":
           [
-            {
-              "title"      : "Kukuli Coloring Book",
-              "app_link"   : "com.ColoringBook_Cartoon2023Ku.www",
-              "image_link" : "https://raw.githubusercontent.com/MyAdsAndroid/Ads_ID/main/AdNetwork/images/Kuku.png"
-            }
-		  
+		   {
+			"title"      : "kukuli rescue",
+			"app_link"   : "com.TGU2023.RescueMonkey",
+			"image_link" : "https://raw.githubusercontent.com/MyAdsAndroid/Ads_ID/main/AdNetwork/images/KukuUni.png"
+		   }		  
           ]
 					
 			}
